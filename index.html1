@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Static Interactive Resume </title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="resume-container">
+        
+    </div class="left-section">
+    
+    <h1 style="font-size: 2p45t; font-family:Arial, Helvetica, sans-serif;">Static Interactive Resume <br> <img src="profile.jpg"  alt="Profile Pictur" class="profile-picture"></h1>
+    
